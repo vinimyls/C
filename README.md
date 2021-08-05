@@ -1,5 +1,5 @@
 # C
-A fake "pacman" game in C.
+A pacman game in C.
 
 This project is part of a course about C lengauge.
 
